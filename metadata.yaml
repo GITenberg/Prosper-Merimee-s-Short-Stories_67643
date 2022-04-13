@@ -1,0 +1,55 @@
+_repo: Prosper-Merimee-s-Short-Stories_67643
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: King, Grace Elizabeth
+    birthdate: 1852
+    deathdate: 1932
+    gutenberg_agent_id: '4009'
+    url: http://www.gutenberg.org/2009/agents/4009
+    wikipedia: https://en.wikipedia.org/wiki/Grace_King
+  translator:
+    agent_name: Ives, George Burnham
+    alias: Ives, George B.
+    birthdate: 1856
+    deathdate: 1930
+    gutenberg_agent_id: '9437'
+    url: http://www.gutenberg.org/2009/agents/9437
+    wikipedia: https://en.wikipedia.org/wiki/George_Burnham_Ives
+creator:
+  author:
+    agent_name: Mérimée, Prosper
+    alias: Merimee, Prosper
+    birthdate: 1803
+    deathdate: 1870
+    gutenberg_agent_id: '920'
+    url: http://www.gutenberg.org/2009/agents/920
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Prosper_Mérimée
+    - https://fr.wikipedia.org/wiki/Prosper_M%C3%A9rim%C3%A9e
+description: ''
+gutenberg_issued: '2022-03-17'
+identifiers:
+  gutenberg: '67643'
+language: en
+pgterms:marc904: https://archive.org/details/prospermrime00mruoft/page/n11
+pgterms:marc905: 20190723133933mrime
+pgterms:marc906: '1903'
+pgterms:marc907: US
+production_note: Thomas Frost, Tim Lindell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: United States :G. P. Putnam's Sons,1903.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Little French masterpieces; 1
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- Translations into English'
+- !lcsh 'Short stories, French -- Translations into English'
+- GITenberg
+tableOfContents: Prosper Mérimée -- Carmen -- The taking of the redoubt -- Mateo Falcone
+  -- The Venus of Ille.
+title: Prosper Mérimée's Short Stories
+url: http://www.gutenberg.org/ebooks/67643
