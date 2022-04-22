@@ -16,6 +16,9 @@ contributor:
     gutenberg_agent_id: '9437'
     url: http://www.gutenberg.org/2009/agents/9437
     wikipedia: https://en.wikipedia.org/wiki/George_Burnham_Ives
+covers:
+- cover_type: archival
+  image_path: 67643-h/images/cover.jpg
 creator:
   author:
     agent_name: Mérimée, Prosper
@@ -28,6 +31,8 @@ creator:
     - https://en.wikipedia.org/wiki/Prosper_Mérimée
     - https://fr.wikipedia.org/wiki/Prosper_M%C3%A9rim%C3%A9e
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67643#Prosper-Merimee-s-Short-Stories
 gutenberg_issued: '2022-03-17'
 identifiers:
   gutenberg: '67643'
